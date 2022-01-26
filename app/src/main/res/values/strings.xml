@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QRdolgozat</string>
+    <string name="btn_scan_text">scan</string>
+    <string name="btn_kiir_text">Kiír</string>
 </resources>
